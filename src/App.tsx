@@ -63,7 +63,7 @@ function App() {
       name: "Facebook",
       url: "https://www.facebook.com/hyjcharlie960906/",
       icon: <Facebook className="w-6 h-6" />,
-      color: "hover:text-pink-500"
+      color: "hover:text-blue-500"
     },
     {
       name: "Instagram",
@@ -75,7 +75,7 @@ function App() {
       name: "Discord",
       url: "http://discordapp.com/users/961983502943911986",
       icon: <Gamepad2Icon className="w-6 h-6" />,
-      color: "hover:text-pink-500"
+      color: "hover:text-purple-500"
     },
   ];
 
