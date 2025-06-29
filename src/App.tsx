@@ -145,7 +145,10 @@ function App() {
           </h1>
           
           <p className="text-xl text-gray-300 mb-2 max-w-2xl mx-auto leading-relaxed">
-            Developer & HYJdevelop CEO & CYSH
+            Developer & HYJdevelop CEO
+          </p>
+          <p className="text-xl text-gray-300 mb-2 max-w-2xl mx-auto leading-relaxed">
+            CYSH_IRC & 115學測生📖
           </p>
           
           <p className="text-gray-400 max-w-lg mx-auto leading-relaxed">
@@ -209,7 +212,7 @@ function App() {
 
           {/* Footer */}
           <div className="text-center text-gray-400 text-sm">
-            <p>©2025 HYJDevelop</p>
+            <p>©2025 HYJdevelop</p>
           </div>
         </div>
       </div>
