@@ -1,17 +1,12 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { 
-  Github, 
-  Twitter, 
+  Github,  
   Instagram, 
-  Linkedin, 
   Mail, 
   ExternalLink,
   MessageCircle,
   Globe,
-  Camera,
   Music,
-  Code,
-  Heart,
   X,
   Facebook,
   Gamepad2Icon,
@@ -39,7 +34,7 @@ function App() {
     {
       title: "Blog",
       description: "Read my article",
-      url: "https://ceoblog.hyjdevelop.com",
+      url: "https://hyjblog.hyjdevelop.com",
       icon: <MessageCircle className="w-5 h-5" />,
       color: "from-orange-500 to-red-600"
     },
